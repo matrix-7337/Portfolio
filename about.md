@@ -24,7 +24,9 @@ layout: default
 - 🛡️ **Exploring Threat Detection, Threat Hunting, and Security Monitoring**
 - ⚙️ **Automating tasks with Python scripts and Bash**
 - 💡 **Practicing Capture The Flag (CTF), DFIR challenges, and blue-team labs**
+
 ---
+<br>
 
 ### 🧠 Currently Learning
 - 🧿 Bash Scripting
