@@ -24,6 +24,7 @@ layout: default
 - 🛡️ **Exploring Threat Detection, Threat Hunting, and Security Monitoring**
 - ⚙️ **Automating tasks with Python scripts and Bash**
 - 💡 **Practicing Capture The Flag (CTF), DFIR challenges, and blue-team labs**
+
 ---
 
 ### 🧠 Currently Learning
@@ -49,4 +50,4 @@ layout: default
 
 ![Volatility](https://img.shields.io/badge/Volatility-4B0082?style=for-the-badge)
 
-<br>
+---
