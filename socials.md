@@ -6,7 +6,7 @@ layout: default
 <img align="right" src ="https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif" width ="500">
 
 
-### 🤝 Let's Connect
+### Socials
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
