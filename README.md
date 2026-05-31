@@ -1,9 +1,7 @@
-<p align="center">
-  <a href="./">[ HOME ]</a>
-  <a href="./projects">[ PROJECTS ]</a>
-  <a href="./about">[ ABOUT ]</a>
-  <a href="./contact">[ CONTACT ]</a>
-</p>
+[![Home](https://img.shields.io/badge/Home-black?style=for-the-badge)](./)
+[![Projects](https://img.shields.io/badge/Projects-blue?style=for-the-badge)](./projects)
+[![About](https://img.shields.io/badge/About-green?style=for-the-badge)](./about)
+[![Contact](https://img.shields.io/badge/Contact-red?style=for-the-badge)](./contact)
 
 <h1 align="center"> 🔵 Defensive Security Learner </h1>
 <p align="center">
