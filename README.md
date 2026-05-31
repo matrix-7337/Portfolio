@@ -2,5 +2,5 @@
 
 <img src="farming-basket-woven-carrying-harvest_20260217_040932.png" align="left">
 
-<h1 align="center"> ~3L3V3N 💚 </h1>
+<h1 align="center"> 🌸 Greetings, traveller! </h1>
 
