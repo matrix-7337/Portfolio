@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<img src="Art Pixel GIF.gif" width="1000" height="500" >
 
 ```csharp
 Projects Terminal v1.0.0: “Just a collection of things I built at 2AM.”
