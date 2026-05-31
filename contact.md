@@ -3,7 +3,7 @@ layout: default
 ---
 
 ---
-<img align="right" src ="https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif" width ="225">
+<img align="right" src ="https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif" width ="500">
 
 
 ### 🤝 Let's Connect
@@ -38,6 +38,3 @@ layout: default
   <img src="https://img.shields.io/badge/picoCTF-F39C12?style=for-the-badge&logo=ctfd&logoColor=white" />
 </a>
 </p>
-
----
-
