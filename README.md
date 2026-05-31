@@ -3,7 +3,7 @@
 [![Home](https://img.shields.io/badge/Home-black?style=for-the-badge)](./)
 [![Projects](https://img.shields.io/badge/Projects-blue?style=for-the-badge)](./projects)
 [![About](https://img.shields.io/badge/About-green?style=for-the-badge)](./about)
-[![Contact](https://img.shields.io/badge/Contact-red?style=for-the-badge)](./contact)
+[![Socials](https://img.shields.io/badge/Contact-red?style=for-the-badge)](./socials)
 
 <img src="farming-basket-woven-carrying-harvest_20260217_040932.png" align="left">
 
