@@ -2,13 +2,6 @@
 layout: default
 ---
 
-<h1 align="center"> 🔵 Defensive Security Learner </h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=LEARNING..." alt="Typing SVG" />
-</p>
-
----
-
 ## Hello there! I'm 3L3V3N <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
  
 
