@@ -16,7 +16,7 @@ layout: default
 </pre>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br>
-
+<div>
 ---
 
 ### 🔭 What I’m Learning
@@ -25,7 +25,6 @@ layout: default
 - ⚙️ **Automating tasks with Python scripts and Bash**
 - 💡 **Practicing Capture The Flag (CTF), DFIR challenges, and blue-team labs**
 
-<br>
 ---
 
 ### 🧠 Currently Learning
@@ -53,3 +52,4 @@ layout: default
 
 <br>
 
+---
