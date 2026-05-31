@@ -32,3 +32,22 @@ layout: default
 - 🐍 Operating System Deep Fundamentals
 
 ---
+
+<img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="400" height="250" align="right" />
+
+### 🧰 Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Sysmon](https://img.shields.io/badge/Sysmon-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+
+![Volatility](https://img.shields.io/badge/Volatility-4B0082?style=for-the-badge)
+
+<br>
+
