@@ -4,6 +4,10 @@ layout: default
 <img src="Art Pixel GIF.gif" width="1000" height="500" >
 
 ```csharp
+~$ cat Projects 
+```
+
+```csharp
 Projects Terminal v1.0.0: “Just a collection of things I built at 2AM.”
 ----------------------------------------------------------------------------------------
 
@@ -27,4 +31,10 @@ Notes         : click links above to escape this page
 
 Status Line   : “It runs. Don’t ask how.”
 ----------------------------------------------------------------------------------------
+```
+```csharp
+~$ clear
+```
+```csharp
+>>> mf always clear!
 ```
