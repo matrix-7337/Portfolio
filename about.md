@@ -50,4 +50,6 @@ layout: default
 
 ![Volatility](https://img.shields.io/badge/Volatility-4B0082?style=for-the-badge)
 
+<br>
+
 ---
