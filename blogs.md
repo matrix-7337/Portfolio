@@ -24,4 +24,21 @@ Recent posts:
 ```csharp
 ~$ rm -rf blog
 ```
+<img src="pngwing.com(2).png" width="250" height="260" align="right">
 
+```csharp
+Deleting blog system...
+----------------------------------------
+Status    : Deactivated
+```
+```csharp
+>> Wait I only wanted to Clear
+>> I have to build that again
+>> ᕙ( ᗒᗣᗕ )ᕗ
+```
+```csharp
+>> Ohh Gosh! Finnaly here
+>>     |
+       ⮛
+```
+[![Blog](https://img.shields.io/badge/Blog-pink?style=for-the-badge&logo=ghost&logoColor=white)](https://matrix-7337.github.io/blog)
