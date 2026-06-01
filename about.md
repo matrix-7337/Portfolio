@@ -54,16 +54,16 @@ layout: default
 
 ### 🧰 Tech Stack & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge)
 
 
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)
-![Sysmon](https://img.shields.io/badge/Sysmon-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge)
+![Sysmon](https://img.shields.io/badge/Sysmon-0078D6?style=for-the-badge)
 ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge\&logo=splunk\&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge)
 
 ![Volatility](https://img.shields.io/badge/Volatility-4B0082?style=for-the-badge)
 
