@@ -2,12 +2,11 @@
 layout: default
 ---
 
-[![👾 3L3V3N](https://img.shields.io/badge/👾_3L3V3N-0D1117?style=for-the-badge\&logo=github\&logoColor=white)](#about)
+[![👾 3L3V3N](https://img.shields.io/badge/👾_3L3V3N-0000007?style=for-the-badge)](#about)
 [![🔭 Learning](https://img.shields.io/badge/🔭_Learning-1F6FEB?style=for-the-badge)](#learning)
-[![🧠 Current Focus](https://img.shields.io/badge/🧠_Current_Focus-7C3AED?style=for-the-badge)](#focus)
 [![🧰 Tech Stack](https://img.shields.io/badge/🧰_Tech_Stack-F59E0B?style=for-the-badge)](#techstack)
 
-<br>
+
 
 <a id="about"></a>
 
@@ -41,8 +40,6 @@ layout: default
 
 ---
 
-<a id="focus"></a>
-
 ### 🧠 Currently Learning
 
 * 🧿 Bash Scripting
@@ -52,6 +49,8 @@ layout: default
 ---
 
 <a id="techstack"></a>
+
+<img src="coderman.gif" align="right" width="400">
 
 ### 🧰 Tech Stack & Tools
 
