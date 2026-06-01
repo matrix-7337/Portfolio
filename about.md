@@ -106,7 +106,7 @@ Icons         : Papirus (aesthetic > performance, always)
 Disk Usage    : 42% system / 58% “I’ll clean it later”
 Battery       : fluctuating between “plug me in” and “panic mode”
 
-IP Address    : 192.168.1.?? (hidden for operational security)
+IP Address    : same as ur coz I am in ur house using ur WiFi
 Location      : inside logs / outside comfort zone
 
 Languages     : Python, Bash, a little C, and overconfidence
