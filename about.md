@@ -2,9 +2,10 @@
 layout: default
 ---
 
-[![👾 3L3V3N](https://img.shields.io/badge/👾_3L3V3N-0000007?style=for-the-badge)](#about)
+[![👾 3L3V3N](https://img.shields.io/badge/👾_3L3V3N-000000?style=for-the-badge)](#about)
 [![🔭 Learning](https://img.shields.io/badge/🔭_Learning-1F6FEB?style=for-the-badge)](#learning)
 [![🧰 Tech Stack](https://img.shields.io/badge/🧰_Tech_Stack-F59E0B?style=for-the-badge)](#techstack)
+[![](https://img.shields.io/badge/My_OS-71cf38?style=for-the-badge)](#techstack)
 
 
 
@@ -38,7 +39,7 @@ layout: default
 * ⚙️ **Automating tasks with Python scripts and Bash**
 * 💡 **Practicing Capture The Flag (CTF), DFIR challenges, and blue-team labs**
 
----
+<br>
 
 ### 🧠 Currently Learning
 
@@ -71,5 +72,50 @@ layout: default
 
 ---
 
+<a id="OS"></a>
+
+### <img src="https://img.shields.io/badge/OS-Lubuntu-blue?style=for-the-badge&logo=linux&logoColor=white" />
+
+```csharp
+~$ fastfetch
+```
+```csharp
+Fastfetch Profile v1.0.0: “Low power. High paranoia. Still compiling.”
+----------------------------------------------------------------------------------------
+
+Username      : 3L3V3N
+Alias         : packet-ghost / dfir-apprentice / log-surgeon
+Status        : analyzing logs that don’t want to be understood
+OS            : Lubuntu (lightweight enough to outrun my mistakes)
+Kernel        : Linux LTS (a.k.a. “stable until I touch it”)
+Shell         : bash + zsh hybrid mindset (confused but functional)
+Uptime        : since last reboot... and last existential crisis ☕
+
+CPU           : modest Intel chip (doing emotional support computing)
+GPU           : integrated graphics (rendering hope in 720p)
+Memory        : limited RAM (80% used by browser tabs & regret)
+
+Resolution    : 1366x768 (maximum efficiency, minimum suffering)
+WM            : Openbox (light, fast, and slightly invisible)
+DE            : LXQt (because my laptop said “be realistic”)
+Theme         : Dark mode (mandatory for cyber survival)
+Icons         : Papirus (aesthetic > performance, always)
+
+Disk Usage    : 42% system / 58% “I’ll clean it later”
+Battery       : fluctuating between “plug me in” and “panic mode”
+
+IP Address    : 192.168.1.?? (hidden for operational security)
+Location      : inside logs / outside comfort zone
+
+Languages     : Python, Bash, a little C, and overconfidence
+Learning      : DFIR • Threat Hunting • Digital Forensics
+Tools         : fastfetch • wireshark • volatility • grep • caffeine
+
+Hobbies       : CTFs, log digging, breaking things professionally
+Fav Activity  : running commands twice just to feel safe
+
+Status Line   : “If it works on Linux, don’t touch it.”
+----------------------------------------------------------------------------------------
+```
 
 
