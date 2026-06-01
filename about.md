@@ -121,3 +121,8 @@ Status Line   : “If it works on Linux, don’t touch it.”
 ```
 
 
+![Gold](https://img.shields.io/badge/Kashi_CTF-1st_Gold-FFD700?style=for-the-badge)
+
+![Silver](https://img.shields.io/badge/IIT_Goa-2nd_Silver-C0C0C0?style=for-the-badge)
+
+![Bronze](https://img.shields.io/badge/Sunshine_CTF-3rd_Bronze-CD7F32?style=for-the-badge)
