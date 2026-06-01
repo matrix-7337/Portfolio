@@ -79,7 +79,7 @@ layout: default
 ```csharp
 ~$ fastfetch
 ```
-<img src="Manga-Anime-Girl-PNG-Download-Image.png" align="left" width="350">
+<img src="Manga-Anime-Girl-PNG-Download-Image.png" align="left" width="300">
 
 ```csharp
 Fastfetch Profile v1.0.0: “Low power. High paranoia. Still compiling.”
