@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="ezgif-6e8efd13c3b09bb6.gif" width="800" height="400">
+<img src="ezgif-6e8efd13c3b09bb6.gif" width="1000" height="400">
 
 
 ```csharp
