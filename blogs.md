@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="ezgif-6e8efd13c3b09bb6.gif" width="1000" height="500">
+<img src="ezgif-6e8efd13c3b09bb6.gif" width="800" height="400">
 
 
 ```csharp
@@ -30,15 +30,14 @@ Recent posts:
 Deleting blog system...
 ----------------------------------------
 Status    : Deactivated
-```
-```csharp
+
 >> Wait I only wanted to Clear
 >> I have to build that again
 >> ᕙ( ᗒᗣᗕ )ᕗ
-```
-```csharp
+
 >> Ohh Gosh! Finnaly here
->>     |
+       |
        ⮛
 ```
-[![Blog](https://img.shields.io/badge/Blog-pink?style=for-the-badge&logo=ghost&logoColor=white)](https://matrix-7337.github.io/blog)
+[![Blog](https://img.shields.io/badge/⮛Blog-pink?style=for-the-badge&logo=ghost&logoColor=white)](https://matrix-7337.github.io/blog)
+[![Blog](https://img.shields.io/badge/⮛Blog-lightgreen?style=for-the-badge&logo=ghost&logoColor=white)](https://matrix-7337.github.io/blog)
