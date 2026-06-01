@@ -4,6 +4,7 @@
 [![Projects](https://img.shields.io/badge/Projects-blue?style=for-the-badge)](./projects)
 [![About](https://img.shields.io/badge/About-green?style=for-the-badge)](./about)
 [![Socials](https://img.shields.io/badge/Socials-red?style=for-the-badge)](./socials)
+[![Blogs](https://img.shields.io/badge/Blogs-orange?style=for-the-badge)](./blogs)
 
 <img src="farming-basket-woven-carrying-harvest_20260217_040932.png" align="left">
 
