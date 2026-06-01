@@ -5,7 +5,7 @@ layout: default
 [![👾 3L3V3N](https://img.shields.io/badge/👾_3L3V3N-ffffff?style=for-the-badge)](#about)
 [![🔭 Learning](https://img.shields.io/badge/🔭_Learning-1F6FEB?style=for-the-badge)](#learning)
 [![🧰 Tech Stack](https://img.shields.io/badge/🧰_Tech_Stack-F59E0B?style=for-the-badge)](#techstack)
-[![](https://img.shields.io/badge/My_OS-71cf38?style=for-the-badge)](#techstack)
+[![](https://img.shields.io/badge/My_OS-71cf38?style=for-the-badge)](#OS)
 
 
 
@@ -72,9 +72,10 @@ layout: default
 
 ---
 
+<a id="OS"></a>
 
 ### <img src="https://img.shields.io/badge/OS-Lubuntu-blue?style=for-the-badge&logo=linux&logoColor=white" />
-<a id="OS"></a>
+
 ```csharp
 ~$ fastfetch
 ```
